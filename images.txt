@@ -1,1 +1,1 @@
-guyton/centos6
+lemonbar/centos6-ssh
