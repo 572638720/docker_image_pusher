@@ -1,1 +1,1 @@
-lemonbar/centos6-ssh
+mysql5.6
